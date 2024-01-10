@@ -1,0 +1,3 @@
+[submodule "marke"]
+    path = mark
+    url = git@github.com:2580p/remote-repo.git
